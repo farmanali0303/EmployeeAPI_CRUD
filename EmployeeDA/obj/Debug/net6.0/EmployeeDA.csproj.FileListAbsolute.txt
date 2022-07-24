@@ -1,0 +1,15 @@
+D:\Git\EmployeeCRUD\EmployeeDA\bin\Debug\net6.0\EmployeeDA.deps.json
+D:\Git\EmployeeCRUD\EmployeeDA\bin\Debug\net6.0\EmployeeDA.dll
+D:\Git\EmployeeCRUD\EmployeeDA\bin\Debug\net6.0\EmployeeDA.pdb
+D:\Git\EmployeeCRUD\EmployeeDA\bin\Debug\net6.0\EmployeeDataModels.dll
+D:\Git\EmployeeCRUD\EmployeeDA\bin\Debug\net6.0\EmployeeDataModels.pdb
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.csproj.AssemblyReference.cache
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.AssemblyInfoInputs.cache
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.AssemblyInfo.cs
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.csproj.CoreCompileInputs.cache
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.csproj.CopyComplete
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.dll
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\refint\EmployeeDA.dll
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\EmployeeDA.pdb
+D:\Git\EmployeeCRUD\EmployeeDA\obj\Debug\net6.0\ref\EmployeeDA.dll
